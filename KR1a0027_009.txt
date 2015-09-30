@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易變體義
-#+DATE: 2015-09-23 09:34:22
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 21:54:18.059873
+#+PROPERTY: ID KR1a0027
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0027_WYG_009-1a>¶
 欽定四庫全書¶
 　易變體義卷九　　　　　　宋　都絜　撰¶
@@ -562,4 +564,3 @@
 　已而有言則必轉禍以為福矣故變體為解而曰乃¶
 <pb:KR1a0027_WYG_009-32a>¶
 　徐有説¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易變體義
-#+DATE: 2015-09-23 09:34:22
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 21:54:18.017027
+#+PROPERTY: ID KR1a0027
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1a0027_WYG_007-1a>¶
 欽定四庫全書¶
 　易變體義卷七　　　　　宋　都絜　撰¶
@@ -447,4 +449,3 @@
 　明故曰白賁无咎葢白雖无色而衆采歸焉故也欲¶
 　明而終晦故曰初登于天後入于地葢天以瑩天功¶
 　明萬物為陽地以幽无形深不測為隂故也¶
-

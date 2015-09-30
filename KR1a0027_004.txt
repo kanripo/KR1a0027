@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易變體義
-#+DATE: 2015-09-23 09:34:22
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:54:17.969365
+#+PROPERTY: ID KR1a0027
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1a0027_WYG_004-1a>¶
 欽定四庫全書¶
 　易變體義卷四　　　　　宋　都絜　撰¶
@@ -321,4 +323,3 @@
 　生以知其比否故為觀之比而與其本體異矣然比¶
 　之觀則主後夫之不上比者言之觀之比則比與不¶
 　比皆觀焉¶
-

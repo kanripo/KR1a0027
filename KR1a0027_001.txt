@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易變體義
-#+DATE: 2015-09-23 09:34:22
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 21:54:17.925258
+#+PROPERTY: ID KR1a0027
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1a0027_WYG_001-1a>¶
 欽定四庫全書¶
 　易變體義卷一　　　　　　宋　都絜　撰¶
@@ -404,4 +406,3 @@
 　禦冦之辭焉夫兼弱攻昧取亂悔亡然後盡行師之¶
 　義是爻所主攻昧而已故為蒙之師而與其本體異¶
 　焉¶
-
